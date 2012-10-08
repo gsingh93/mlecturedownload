@@ -1,5 +1,7 @@
 <?php
-$mysqli = new mysqli("localhost", "root", "root", "mlecturedownload");
+require_once "../resource/db_config.php";
+
+$mysqli = new mysqli($host, $user, $password, $database);
 if ($mysqli->connect_errno) {
 	echo "Failed to connect to MySQL: (" . $mysqli->connect_errno . ") " . $mysqli->connect_error;
 	//echo "The EC2 server this site runs on has crashed. This site will be back up tomorrow.";
