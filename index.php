@@ -222,7 +222,7 @@ function get_video_path($id1, $id2) {
 			Running this site costs money, and that is something I don't have a lot of. If this site helped you, please <button id="donate-link" type="submit" name="submit">donate one dollar</button> to keep this site running.
 			<img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
 		</form>
-       If you would like to make this site not look like crap or if you would like to report a bug, email me, Gulshan Singh, at gulshan@umich.edu
+       If you would like to make this site not look like crap or if you would like to report a bug, email me, <a href="http://www.gulshansingh.com">Gulshan Singh</a>, at <a href="mailto:gulshan@umich.edu">gulshan@umich.edu</a>
      </div>
   </body>
 </html>
