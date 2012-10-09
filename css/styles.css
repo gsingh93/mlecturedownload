@@ -90,7 +90,7 @@ a, .number, #donate-link {
     margin: 30px;
 }
 
-#submit {
+.button {
     border-style: none;
     font-family: Arial;
     color: #ffffff;
@@ -114,7 +114,7 @@ a, .number, #donate-link {
 	filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#ffe366', endColorstr='#fcd116',GradientType=0 ); /* IE6-9 */
 }
 
-#submit:hover {
+.button:hover {
     background: #fcd116;
 }
 
