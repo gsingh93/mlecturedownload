@@ -65,6 +65,9 @@ function get_video_path($id1, $id2) {
 <html>
   <head>
   	<title>MLecture Download</title>
+  	
+  	<meta http-equiv="X-UA-Compatible" content="IE=9" />
+  	
     <link rel="stylesheet" type="text/css" href="css/styles.css">
     <script src="//ajax.googleapis.com/ajax/libs/jquery/1.8.1/jquery.min.js" type="text/javascript"></script>
     <script src="//ajax.googleapis.com/ajax/libs/jqueryui/1.8.23/jquery-ui.min.js"></script>
@@ -205,7 +208,7 @@ function get_video_path($id1, $id2) {
 					        $("#counter").flipCounter(
 				                "startAnimation",
 				                {
-				                        end_number: data["count"] // the number we want the counter to scroll to
+					                end_number: data["count"] // the number we want the counter to scroll to
 				                }
 				        );},
 			        });
