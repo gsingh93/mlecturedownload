@@ -67,7 +67,8 @@ function get_video_path($id1, $id2) {
   	<title>MLecture Download</title>
   	
   	<meta http-equiv="X-UA-Compatible" content="IE=9" />
-	<meta property="og:image" content="/images/M_facebook_icon.png" />
+	<meta property="og:image" content="http://mlecturedownload.com/images/M_facebook_icon.png" />
+	<meta property="og:description" content="Download your lectures!" />
 	<meta property="og:title" content="MLecture Download" />
 	<meta property="og:url" content="http://www.mlecturedownload.com" />
 	<meta property="og:site_name" content="MLecture Download" />  	
