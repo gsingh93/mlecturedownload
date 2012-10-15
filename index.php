@@ -72,6 +72,8 @@ function get_video_path($id1, $id2) {
 	<meta property="og:title" content="MLecture Download" />
 	<meta property="og:url" content="http://www.mlecturedownload.com" />
 	<meta property="og:site_name" content="MLecture Download" />  	
+
+	<link rel="icon" type="image/ico" href="http://mlecturedownload.com/favicon.ico">
     <link rel="stylesheet" type="text/css" href="css/styles.css">
     <script src="//ajax.googleapis.com/ajax/libs/jquery/1.8.1/jquery.min.js" type="text/javascript"></script>
     <script src="//ajax.googleapis.com/ajax/libs/jqueryui/1.8.23/jquery-ui.min.js"></script>
