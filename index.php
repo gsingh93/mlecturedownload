@@ -133,7 +133,7 @@ function get_video_path($id1, $id2) {
 	The ability to download all of the lectures for a class at once is coming soon!<br>
 	</div>
 	<div id="speed-instructions-toggle">
-		<img class="right-arrow" src="images/right_arrow.png">I'm a beast and can understand my lectures at twice the speed. How can I do watch them at that speed?
+		<img class="right-arrow" src="images/right_arrow.png">I'm a beast and can understand my lectures at twice the speed. How do I watch them at that speed?
 	</div>
 	<div id="speed-instructions">
 		<span class="number">1.</span> Download and install <a href="http://www.videolan.org/vlc/index.html">VLC Media Player</a><br>
